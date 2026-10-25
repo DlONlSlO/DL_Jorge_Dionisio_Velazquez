@@ -1,8 +1,8 @@
 # Trabajo Práctico N° 1 - Aprendizaje Profundo
 
-**Alumno:** [Jorge Dionisio Velazquez]
-**Materia:** Inteligencia Artificial / Aprendizaje Profundo 
-**Fecha:** [26/10/2026] 
+- **Alumno:** [Jorge Dionisio Velazquez]
+- **Materia:** Inteligencia Artificial / Aprendizaje Profundo 
+- **Fecha:** [26/10/2026] 
 
 --- ## 📁 Contenido del Repositorio Este repositorio contiene la entrega del primer trabajo práctico introductorio: 
 - `TP1_Nombre_Apellido.ipynb`: Cuaderno de Google Colab con ejercicios de presupuesto personal, condicionales `if/else`, cálculo de aumentos con bucles `for` y resolución del desafío práctico.
